@@ -1,0 +1,6 @@
+com.example.mpchartlib
+int color black 0x7f060001
+int color green 0x7f060002
+int color qian_white 0x7f060003
+int color red 0x7f060004
+int color white 0x7f060005

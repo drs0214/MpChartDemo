@@ -1,0 +1,21 @@
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".DetailedUseActivityDemo">
+
+        <!--折线图-->
+        <com.github.mikephil.charting.charts.LineChart
+            
+            android:id="@+id/line_chart"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+
+    </LinearLayout>
+
